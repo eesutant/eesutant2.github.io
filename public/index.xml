@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Words of Life Library</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.wordsoflifelibrary.org/</link>
     <description>Recent content in Home on Words of Life Library</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 04 May 2025 14:05:54 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wordsoflifelibrary.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/hugo/</link>
+      <link>https://www.wordsoflifelibrary.org/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo/</guid>
+      <guid>https://www.wordsoflifelibrary.org/hugo/</guid>
       <description>&lt;h1 id=&#34;hugo&#34;&gt;Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Website: &lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Written in Go, Hugo is an open-source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single-page applications, or even a website with thousands of pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bear</title>
-      <link>http://localhost:1313/bear/</link>
+      <link>https://www.wordsoflifelibrary.org/bear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bear/</guid>
+      <guid>https://www.wordsoflifelibrary.org/bear/</guid>
       <description>&lt;h1 id=&#34;bear&#34;&gt;Bear&lt;/h1&gt;&#xA;&lt;p&gt;Website: &lt;a href=&#34;https://bearblog.dev&#34;&gt;https://bearblog.dev&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.&lt;/p&gt;&#xA;&lt;p&gt;Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on &lt;strong&gt;any&lt;/strong&gt; viewing device. All you need to focus on is writing good content.&lt;/p&gt;&#xA;&lt;p&gt;Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and &lt;strong&gt;optimized for search engines.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The New Testament: Living in Christ and Christ in Us</title>
-      <link>http://localhost:1313/the-new-testament-living-in-christ-and-christ-in-us/</link>
+      <link>https://www.wordsoflifelibrary.org/the-new-testament-living-in-christ-and-christ-in-us/</link>
       <pubDate>Sun, 04 May 2025 14:05:54 +0100</pubDate>
-      <guid>http://localhost:1313/the-new-testament-living-in-christ-and-christ-in-us/</guid>
+      <guid>https://www.wordsoflifelibrary.org/the-new-testament-living-in-christ-and-christ-in-us/</guid>
       <description>&lt;h1 id=&#34;the-new-testament-living-in-christ-and-christ-in-us&#34;&gt;The New Testament: Living in Christ and Christ in Us&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction-the-heart-of-the-new-testament&#34;&gt;Introduction: The Heart of the New Testament&lt;/h2&gt;&#xA;&lt;p&gt;The New Testament is far more than a collection of ancient texts; it is the living revelation of Jesus Christ and His transformative work in the lives of believers. At its core, the New Testament unveils the mystery of divine union: Christ in you, and you in Christ. This truth is not merely theological but experiential, shaping every aspect of the Christian life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Divine Purpose of the Old Testament</title>
-      <link>http://localhost:1313/the-divine-purpose-of-the-old-testament/</link>
+      <link>https://www.wordsoflifelibrary.org/the-divine-purpose-of-the-old-testament/</link>
       <pubDate>Sat, 03 May 2025 14:05:54 +0100</pubDate>
-      <guid>http://localhost:1313/the-divine-purpose-of-the-old-testament/</guid>
+      <guid>https://www.wordsoflifelibrary.org/the-divine-purpose-of-the-old-testament/</guid>
       <description>&lt;h1 id=&#34;the-divine-purpose-of-the-old-testament-preparation-for-christ&#34;&gt;The Divine Purpose of the Old Testament: Preparation for Christ&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;(Adapted from Ray Stedman’s sermons on raystedman.org)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-the-unity-of-the-bible&#34;&gt;Introduction: The Unity of the Bible&lt;/h2&gt;&#xA;&lt;p&gt;The Bible is God’s complete revelation to humanity, comprised of the Old and New Testaments. Last time, we explored the purpose of God’s revelation in the Bible, to mature us as believers into the complete expression of Jesus Christ. The entire Bible is necessary for this transformation, with the Holy Spirit helping us understand it. &lt;/p&gt;</description>
     </item>
     <item>
       <title>The Bible: God’s Revelation</title>
-      <link>http://localhost:1313/the-bible-gods-revelation/</link>
+      <link>https://www.wordsoflifelibrary.org/the-bible-gods-revelation/</link>
       <pubDate>Tue, 29 Apr 2025 14:05:54 +0100</pubDate>
-      <guid>http://localhost:1313/the-bible-gods-revelation/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Adapted from Ray Stedman’s sermons on raystedman.org)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The Bible, composed of 66 books written over fifteen centuries by dozens of authors, presents a unified narrative: the story of humanity. It reveals who we are, our purpose, and our need for God. Through instruction, correction, and encouragement, it guides us toward truth—truth that is only fully realized in relationship with our Creator.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-inadequacy-of-man-without-god&#34;&gt;The Inadequacy of Man Without God&lt;/h2&gt;&#xA;&lt;p&gt;The Bible exposes humanity’s fundamental flaw: separation from God. Without a genuine personal relationship with an indwelling God, we are incomplete, unable to grasp our identity or fulfill our purpose. This inadequacy manifests in three key areas:&lt;/p&gt;</description>
+      <guid>https://www.wordsoflifelibrary.org/the-bible-gods-revelation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Adapted from Ray Stedman’s sermons on raystedman.org)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-a-story-of-discovery&#34;&gt;Introduction: A Story of Discovery&lt;/h2&gt;&#xA;&lt;p&gt;Imagine a young explorer, eager to uncover the secrets of an ancient civilization. He stumbles upon a dusty, old map hidden in a forgotten library. This map promises to lead him to a treasure beyond his wildest dreams. But there&amp;rsquo;s a catch – the map is complex, filled with symbols and paths that seem impossible to decipher without guidance. Realizing this, the explorer understands he needs a mentor to interpret the map and help him navigate the journey.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
