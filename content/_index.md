@@ -4,24 +4,22 @@ menu = "main"
 weight = 1
 +++
 
-# A match made in heaven
+Welcome to *Words of Life Library*, a space where the richness of God’s Word is
+explored with depth, clarity, and faith. Our mission is to provide engaging **Bible** **Book Overviews**, thought-provoking **Christian articles**, and insightful **book reviews**, all designed to deepen understanding, strengthen faith, and inspire reflection.
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+At Words of Life Library, you will find:
+- **Bible Book Overviews** – Summaries of each book, exploring themes, and
+practical applications for today
+- **Christian Thought & Reflection** – Theological insights on grace, prayer,
+worship, and the nature of faith
+- **Faith & Daily Living** – How biblical principles apply to work, relationships,
+and stewardship, including environmental care
+- **Christian Book Reviews** – Reviews of influential Christian literature to guide
+and inspire your reading journey
+- **Encouragement & Spiritual Growth** – Messages of hope, testimonies, and
+reflections to uplift believers in every season
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+We believe Scripture is more than words—it is **alive, transformative, and deeply relevant**. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for faith-enriching books, Words of Life Library invites you to **journey through the sacred pages** with us.
 
-[Go to the original bear blog](https://bearblog.dev/).
-
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+To explore our content, please **click on the Blog** and join us in discovering the
+Words of Life.
