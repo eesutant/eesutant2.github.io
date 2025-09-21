@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://www.wordsoflifelibrary.org/</loc>
-    <lastmod>2025-04-29T14:05:54+01:00</lastmod>
-  </url><url>
-    <loc>https://www.wordsoflifelibrary.org/blog/</loc>
-    <lastmod>2025-04-29T14:05:54+01:00</lastmod>
-  </url><url>
-    <loc>https://www.wordsoflifelibrary.org/blog/bible/</loc>
-    <lastmod>2025-04-29T14:05:54+01:00</lastmod>
-  </url><url>
-    <loc>https://www.wordsoflifelibrary.org/the-bible-gods-revelation/</loc>
-    <lastmod>2025-04-29T14:05:54+01:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tour/overview-of/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/overview-of-genesis-1--11---the-foundations-of-everything/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tour/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/overview-of-new-testament---a-story-of-encounter-and-fulfillment/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/overview-of-the-old-testament---preparation-for-christ/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/overview-of-the-whole-bible---a-divine-library-with-one-grand-story/</loc>
+    <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/the-bible-gods-revelation/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

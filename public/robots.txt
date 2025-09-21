@@ -1,2 +1,3 @@
-User-Agent: *
-Sitemap: https://www.wordsoflifelibrary.org/sitemap.xml
+User-agent: *
+Disallow: /
+Sitemap: http://localhost:1313/sitemap.xml
